@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Шестой урок</title>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- Первое задание -->
+	<section>
+		
+		<a target="_blank" href="https://www.drive2.ru">Drive2.ru</a><br>
+		<a href="#paragraph_7">Нужный абзац</a><br> 	
+		<a download href="docs.txt">Скачать</a>
+
+		<h2>Первый абзац</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni est velit aliquid, beatae eaque ad, nihil, ea, voluptatem esse sit id molestias ducimus quia. Explicabo voluptates quibusdam laborum sit earum, ad, officia enim eos inventore deserunt qui amet doloremque rem quasi, a provident iste aliquid molestias eius mollitia libero laudantium.</p>	
+
+        <h2>Второй абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus amet eaque, illo vel ex odit distinctio ullam a ad modi temporibus quo neque corrupti repudiandae dolor, in cupiditate! Incidunt quisquam ut velit beatae possimus sint, dolor deserunt sapiente assumenda consectetur obcaecati minima neque aliquam qui similique quam dolore eaque molestiae.</p>
+        
+        <h2>Третий абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius neque, enim, nisi suscipit delectus fuga maiores, ut quos quo voluptates sapiente. Perspiciatis unde, nulla. Sint harum aperiam quae, sit, fugit aliquam alias veniam quo officia laudantium blanditiis cupiditate accusantium reiciendis. Non labore cupiditate illo iusto dicta nulla deserunt vero eaque.</p>
+
+        <h2>Четвертый абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo doloribus voluptate quaerat tenetur, praesentium. Sunt natus minus provident quidem eius tenetur a cum veritatis quis ab! Saepe adipisci vel, quia quos distinctio tempora incidunt exercitationem laborum, ducimus voluptatibus nostrum. Quibusdam ea voluptates fuga corporis officiis adipisci perferendis omnis modi velit.</p>
+
+        <h2>Пятый абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam eveniet in suscipit dignissimos aperiam odio ex architecto unde a veniam at quisquam, nulla perspiciatis, aspernatur, facere corporis sint. Accusamus nihil ipsam sit non, nobis sequi minus tempore obcaecati nesciunt tenetur placeat error praesentium, fugiat beatae cupiditate? Minima libero sit numquam!</p>
+
+        <h2>Шестой абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem repudiandae praesentium, blanditiis facere veniam corporis aspernatur rem at illum omnis, laborum voluptatum eligendi labore ad, nisi incidunt! Saepe tempore, corporis molestiae earum pariatur voluptatibus est repudiandae sint tempora magnam dolorem accusamus, temporibus modi! Necessitatibus deserunt quaerat eveniet accusantium, odit veniam.</p>
+
+        <h2 id="paragraph_7">Седьмой абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae recusandae omnis, eligendi ipsa qui expedita dignissimos itaque libero rem dolore quia labore accusamus veniam distinctio ipsum fugiat. Officia, quos maiores debitis impedit reprehenderit qui, aliquam labore nobis tempore sunt blanditiis omnis quae recusandae sapiente repudiandae magnam ipsam in, provident laudantium!</p>
+
+        <h2>Восьмой абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum voluptas, magni minus et consequatur quidem commodi quos! Repellendus animi, est ducimus! Asperiores quam hic dolore beatae, similique ut cupiditate vel et non aliquam temporibus, magnam vero saepe repudiandae repellendus quasi, nemo consequuntur architecto quos. Rerum, quasi, sed. Quisquam, consectetur, in?</p>
+
+        <h2>Девятый абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit, eius! Recusandae beatae, labore dolore. Beatae maiores, numquam, mollitia optio possimus fugiat temporibus magni id tenetur. Delectus debitis nostrum odio mollitia consectetur, fugiat a doloremque veniam reiciendis facere quidem optio incidunt, blanditiis labore nemo in corporis! Harum optio nisi enim voluptate.</p>
+
+        <h2>Десятый абзац</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non cumque nulla aut esse architecto assumenda, repudiandae amet porro excepturi commodi est nemo optio culpa expedita voluptatum, eveniet modi distinctio maiores enim illo, corrupti cum totam nesciunt ipsam! Molestias, quam. Expedita fugit asperiores unde, atque labore laboriosam repudiandae maiores odit neque.</p>
+
+	</section>
+	<br>
+	<br>
+
+<!-- Второе задание -->
+
+<section>
+	<img src="img/bg.jpg" alt=""><br>
+	<a href="#"><img class="basket" src="img/korzina_z_shop.png" alt="Лого корзины">Купить</a>
+
+</section>
+<br>
+<br>
+<br>
+
+<!-- Третье задание -->
+<section id="example_1"></section>
+
+<!-- Четвертое задание -->
+<section id="example_2"></section>
+
+
+</body>
+</html>

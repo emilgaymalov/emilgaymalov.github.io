@@ -1,0 +1,21 @@
+img {
+
+	width: 250px;
+}
+.basket {
+
+	width: 30px;
+
+}
+section#example_1 {
+
+height: 100vh;
+background-image: url(../img/bg2.jpg);
+background-size: cover;
+
+}
+section#example_2 {
+
+	background-image: url(../img/pattern.png);
+	height: 100vh;
+}
